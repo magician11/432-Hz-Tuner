@@ -18,4 +18,5 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 
 ## Articles
 
-[mindvibrations](https://www.mindvibrations.com/432-hz/)
+- [mindvibrations](https://www.mindvibrations.com/432-hz/)
+- [The great 440 Hz conspiracy, and why all of our music is wrong: Alan Cross](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
