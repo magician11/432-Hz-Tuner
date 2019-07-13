@@ -18,6 +18,8 @@ osc.stop(context.currentTime + 2); // stop 2 seconds after the current time
 
 [source](https://stackoverflow.com/a/16573282/2813041)
 
+I could probably borrow a lot from the implementation of [simpleTones.js](https://github.com/escottalexander/simpleTones.js/blob/master/simpleTones.js)
+
 ## Articles
 
 - [Generate Sounds Programmatically With Javascript](https://marcgg.com/blog/2016/11/01/javascript-audio/)
