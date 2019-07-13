@@ -54,4 +54,6 @@ Sacred geometry. Below we'll create the seed of life (which in turn produces [th
 
 "Factor 9" Grid Built on 432
 
+This includes all the numbers of every primary geometric shape.
+
 ![factor 9 grid](https://www.roelhollander.eu/en/wp-content/uploads/manual/Factor9-grid.png)
