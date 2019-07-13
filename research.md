@@ -27,18 +27,26 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 
 Pythagorean tuning: 4th octave A (432 Hz)
 
-F# Major Chord can be expressed by 2 dimensional shapes:
-  
-  - triangle (180) F#
-  - square/circle (360) C#
-  - pentagon (540) A#
-  - hexagon (720) F#
-  - septagon (900) A#
-  - octagon (1080) C#
+The F# Major Chord can be expressed in...
 
-F# Major Chord can be expressed by 3 dimensional shapes:
+2 dimensional shapes:
+- triangle (180) F#
+- square/circle (360) C#
+- pentagon (540) A#
+- hexagon (720) F#
+- septagon (900) A#
+- octagon (1080) C#
+
+3 dimensional shapes:
+- tetrahedron (4 * 180 = 720) F#
+- cube (6 * 360 = 2160) C#
+- octahedron (8 * 180 = 1440) F#
+- icosahedron (20 * 180 = 3600) A#
   
-  - tetrahedron (4 * 180 = 720) F#
-  - cube (6 * 360 = 2160) C#
-  - octahedron (8 * 180 = 1440) F#
-  - icosahedron (20 * 180 = 3600) A#
+Sacred geometry. Below we'll create the seed of life (which in turn produces [the flower of life](https://www.bibliotecapleyades.net/geometria_sagrada/esp_geometria_sagrada_6.htm))
+- circle 1 (360) F#
+- circle 2 (720) F#
+- circle 3 (1080) C#
+- circle 4 (1440) F#
+- circle 5 (1800) A#
+- circle 6 (2160) C#
