@@ -24,3 +24,7 @@ I could probably borrow a lot from the implementation of [simpleTones.js](https:
 
 - [Generate Sounds Programmatically With Javascript](https://marcgg.com/blog/2016/11/01/javascript-audio/)
 - [Visualizations with Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API)
+
+## Domain name
+
+todo: buy a domain name to point to the standalone app.
