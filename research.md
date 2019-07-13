@@ -50,3 +50,7 @@ Sacred geometry. Below we'll create the seed of life (which in turn produces [th
 - circle 4 (1440) F#
 - circle 5 (1800) A#
 - circle 6 (2160) C#
+
+"Factor 9" Grid Built on 432
+
+![factor 9 grid](https://www.roelhollander.eu/en/wp-content/uploads/manual/Factor9-grid.png)
