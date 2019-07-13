@@ -24,3 +24,4 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 ## Videos
 
 - [Sonic Geometry: The Language of Frequency and Form](https://www.youtube.com/watch?v=FY74AFQl2qQ)
+  - Pythagorean tuning: 4th octave A (432 Hz)
