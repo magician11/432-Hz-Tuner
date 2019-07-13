@@ -24,4 +24,21 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 ## Videos
 
 - [Sonic Geometry: The Language of Frequency and Form](https://www.youtube.com/watch?v=FY74AFQl2qQ)
-  - Pythagorean tuning: 4th octave A (432 Hz)
+
+Pythagorean tuning: 4th octave A (432 Hz)
+
+F# Major Chord can be expressed by 2 dimensional shapes:
+  
+  - triangle (180) F#
+  - square/circle (360) C#
+  - pentagon (540) A#
+  - hexagon (720) F#
+  - septagon (900) A#
+  - octagon (1080) C#
+
+F# Major Chord can be expressed by 3 dimensional shapes:
+  
+  - tetrahedron (4 * 180 = 720) F#
+  - cube (6 * 360 = 2160) C#
+  - octahedron (8 * 180 = 1440) F#
+  - icosahedron (20 * 180 = 3600) A#
