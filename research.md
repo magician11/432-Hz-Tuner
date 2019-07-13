@@ -12,13 +12,13 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 
 ## What it sounds like
 
-[A little song played on a 432 Hz tuned ukulele](https://www.youtube.com/watch?v=ds8tNDWFCbQ)
-
-[Tuning a ukulele to 432 Hz from a YouTube video](https://www.youtube.com/watch?v=zWL0C18u3pk)
-- G (392 Hz)
-- C (256 Hz)
-- E (320 Hz)
-- A (432 Hz)
+- [A little song played on a 432 Hz tuned ukulele](https://www.youtube.com/watch?v=ds8tNDWFCbQ)
+- [Tuning a ukulele to 432 Hz from a YouTube video](https://www.youtube.com/watch?v=zWL0C18u3pk)
+  - G (392 Hz)
+  - C (256 Hz)
+  - E (320 Hz)
+  - A (432 Hz)
+- [432Hz 》MAGICAL FOREST MUSIC 》Manifest Miracles 》Raise Your Vibration](https://www.youtube.com/watch?v=L2PQKda8bj0)
 
 ## Articles
 
