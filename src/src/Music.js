@@ -37,7 +37,15 @@ export default function Music() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const music = await fetchAllMusic();
+      const musicSnapshot = await fetchAllMusic();
+
+      const music = [];
+      for (let id of Object.keys(musicSnapshot)) {
+        music.push({
+          id,
+          ...musicSnapshot[id]
+        });
+      }
       setMusic(music);
     };
 

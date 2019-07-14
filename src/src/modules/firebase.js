@@ -20,14 +20,7 @@ const fetchAllMusic = async () => {
       .database()
       .ref('music')
       .once('value');
-    const music = [];
-    for (let id of Object.keys(snapshot.val())) {
-      music.push({
-        id,
-        ...snapshot.val()[id]
-      });
-    }
-    return music;
+    return snapshot.val();
   } catch (error) {
     throw error;
   }
