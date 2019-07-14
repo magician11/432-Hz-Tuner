@@ -1,11 +1,14 @@
 import React, { useState, useEffect } from 'react';
-import Card from '@material-ui/core/Card';
-import CardContent from '@material-ui/core/CardContent';
-import CardMedia from '@material-ui/core/CardMedia';
-import Grid from '@material-ui/core/Grid';
-import Typography from '@material-ui/core/Typography';
+import {
+  Card,
+  CardContent,
+  CardMedia,
+  Grid,
+  Typography,
+  Container,
+  LinearProgress
+} from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import Container from '@material-ui/core/Container';
 import { fetchAllMusic } from './modules/firebase';
 
 const useStyles = makeStyles(theme => ({
@@ -56,7 +59,7 @@ export default function Music() {
     let musicGrid;
 
     if (!music) {
-      musicGrid = <Typography>Loading...</Typography>;
+      musicGrid = <LinearProgress />;
     } else if (music.length > 0) {
       const createCard = song => (
         <Card className={classes.card}>
