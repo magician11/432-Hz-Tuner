@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { withRouter } from 'react-router-dom';
 import Button from '@material-ui/core/Button';
 import Card from '@material-ui/core/Card';
 import CardActions from '@material-ui/core/CardActions';
@@ -35,7 +36,7 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-export default function Home() {
+const Home = props => {
   const classes = useStyles();
   const [showDialog, setDialog] = useState(false);
 
@@ -107,7 +108,7 @@ export default function Home() {
                 <Button
                   size="small"
                   color="primary"
-                  onClick={() => setDialog(true)}
+                  onClick={() => props.history.push('music')}
                 >
                   View More Songs
                 </Button>
@@ -119,4 +120,6 @@ export default function Home() {
       {showDialog && <WorkInProgress handleClose={() => setDialog(false)} />}
     </main>
   );
-}
+};
+
+export default withRouter(Home);

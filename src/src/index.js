@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Nav from './Nav';
 import Home from './Home';
+import Music from './Music';
 import Footer from './Footer';
 import * as serviceWorker from './serviceWorker';
 
@@ -13,6 +14,7 @@ const AppRouter = () => {
       <CssBaseline />
       <Nav />
       <Route path="/" exact component={Home} />
+      <Route path="/music" exact component={Music} />
       <Footer />
     </Router>
   );
