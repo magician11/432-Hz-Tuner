@@ -29,6 +29,8 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 
 [source](https://www.strymon.net/this-weeks-favorite-midnights-ocean-and-bluesky/)
 
+- [Attuned Vibrations](https://attunedvibrations.com/432hz/)
+
 ## Videos
 
 - [Sonic Geometry: The Language of Frequency and Form](https://www.youtube.com/watch?v=FY74AFQl2qQ)
