@@ -26,6 +26,7 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 - [The great 440 Hz conspiracy, and why all of our music is wrong: Alan Cross](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
 - [What Is Sound? by Steve Deckert (Feb 2017)](http://www.decware.com/newsite/DECWARESOUND.pdf)
 - [Can Sacred Geometry Produce Musical Harmony? by Gaia](https://www.gaia.com/article/can-sacred-geometry-produce-musical-harmony)
+- [More on Sacred Geometry and Shapes](https://www.consciousawareness.info/sacred-geometry)
 > Unlike 440Hz, 432Hz, as it turns out, is in tune with the natural mathematic geometry of the universe. While our standard ‘even temperament’ allows easy key changes, it does so at the expense of introducing dissonance.
 
 [source](https://www.strymon.net/this-weeks-favorite-midnights-ocean-and-bluesky/)
