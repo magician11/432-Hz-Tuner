@@ -27,4 +27,4 @@ I could probably borrow a lot from the implementation of [simpleTones.js](https:
 
 ## Domain name
 
-todo: buy a domain name to point to the standalone app.
+Bought 432hertz.info
