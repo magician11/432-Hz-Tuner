@@ -68,7 +68,7 @@ const Home = props => {
                 <Button
                   variant="contained"
                   color="primary"
-                  onClick={() => setDialog(true)}
+                  onClick={() => props.history.push('tuner')}
                 >
                   Instrument Tuner
                 </Button>

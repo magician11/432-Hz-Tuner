@@ -5,6 +5,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import Nav from './Nav';
 import Home from './Home';
 import Music from './Music';
+import Tuner from './Tuner';
 import Footer from './Footer';
 import * as serviceWorker from './serviceWorker';
 
@@ -15,6 +16,7 @@ const AppRouter = () => {
       <Nav />
       <Route path="/" exact component={Home} />
       <Route path="/music" exact component={Music} />
+      <Route path="/tuner" exact component={Tuner} />
       <Footer />
     </Router>
   );
