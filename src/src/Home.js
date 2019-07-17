@@ -29,7 +29,7 @@ const useStyles = makeStyles(theme => ({
     flexDirection: 'column'
   },
   cardMedia: {
-    height: '432px'
+    height: '333px'
   },
   cardContent: {
     flexGrow: 1
@@ -92,7 +92,7 @@ const Home = props => {
             <Card className={classes.card}>
               <CardMedia
                 className={classes.cardMedia}
-                src="https://www.youtube.com/embed/L2PQKda8bj0"
+                src="https://player.vimeo.com/video/343518531"
                 title="Image title"
                 component="iframe"
               />
