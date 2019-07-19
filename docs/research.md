@@ -6,11 +6,13 @@ GitHub repos: https://github.com/search?utf8=%E2%9C%93&q=432hz
 
 A 432 Hz player: https://www.432player.com/
 
+[Guitar Tuna](https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en_US) has a setting to calibrate to 432 Hz
+
 ## Terms
 
 Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second. ([Wikipedia](https://en.wikipedia.org/wiki/Hertz))
 
-## What it sounds like
+## Sounds and frequencies
 
 - [A little song played on a 432 Hz tuned ukulele](https://www.youtube.com/watch?v=ds8tNDWFCbQ)
 - [Tuning a ukulele to 432 Hz from a YouTube video](https://www.youtube.com/watch?v=zWL0C18u3pk)
@@ -19,6 +21,7 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
   - E (320 Hz)
   - A (432 Hz)
 - [432Hz 》MAGICAL FOREST MUSIC 》Manifest Miracles 》Raise Your Vibration](https://www.youtube.com/watch?v=L2PQKda8bj0)
+- To reprogram the subsconscious together with affirmations, use [4Hz](https://www.youtube.com/watch?v=BZyGxL2FnVU)
 
 ## Articles
 
@@ -32,10 +35,13 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 [source](https://www.strymon.net/this-weeks-favorite-midnights-ocean-and-bluesky/)
 
 - [Attuned Vibrations](https://attunedvibrations.com/432hz/)
+- [432 Hz, The Universal Frequency of Sacred Geometry](https://www.gaiameditation.com/sound-healing-research/432-hz-the-universal-frequency-of-sacred-geometry/)
 
 ## Videos
 
 - [Sonic Geometry: The Language of Frequency and Form](https://www.youtube.com/watch?v=FY74AFQl2qQ)
+- [Sonic Geometry 2: Commnicating with the Universe in 432hz](https://www.youtube.com/watch?v=Yimor2jRmCA)
+- [The Secrets of Vibration and Frequency: The Power of Sound](https://www.youtube.com/watch?v=_aeeNMk04l0&t=7s)
 
 Pythagorean tuning: 4th octave A (432 Hz)
 
