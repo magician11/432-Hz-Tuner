@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Nav from './Nav';
+import GAListener from './GAListener';
 import Home from './Home';
 import Music from './Music';
 import Tuner from './Tuner';
@@ -12,12 +13,14 @@ import * as serviceWorker from './serviceWorker';
 const AppRouter = () => {
   return (
     <Router>
-      <CssBaseline />
-      <Nav />
-      <Route path="/" exact component={Home} />
-      <Route path="/music" exact component={Music} />
-      <Route path="/tuner" exact component={Tuner} />
-      <Footer />
+      <GAListener trackingId="UA-63340534-7">
+        <CssBaseline />
+        <Nav />
+        <Route path="/" exact component={Home} />
+        <Route path="/music" exact component={Music} />
+        <Route path="/tuner" exact component={Tuner} />
+        <Footer />
+      </GAListener>
     </Router>
   );
 };
