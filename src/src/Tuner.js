@@ -10,6 +10,10 @@ const useStyles = makeStyles(theme => ({
   tuners: {
     paddingTop: theme.spacing(8),
     paddingBottom: theme.spacing(8)
+  },
+  tunerButtons: {
+    padding: theme.spacing(3, 0, 3),
+    display: 'inherit'
   }
 }));
 
@@ -56,16 +60,33 @@ export default function Tuner() {
         <Typography variant="h5" gutterBottom>
           Ukulele
         </Typography>
+        <Typography variant="body1" gutterBottom>
+          To hear the ukelele notes tuned to the 432 Hz frequency, click each
+          button below.
+        </Typography>
         <ButtonGroup
           color="secondary"
           size="large"
           aria-label="Large outlined secondary button group"
+          className={classes.tunerButtons}
         >
           <Button onClick={() => playFrequency(392)}>G (392 Hz)</Button>
           <Button onClick={() => playFrequency(256)}>C (256 Hz)</Button>
           <Button onClick={() => playFrequency(320)}>E (320 Hz)</Button>
           <Button onClick={() => playFrequency(432)}>A (432 Hz)</Button>
         </ButtonGroup>
+        <Typography variant="body1" gutterBottom>
+          The Guitar Tuna app (available on{' '}
+          <a href="https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en_US">
+            Android
+          </a>
+          ) has a setting where you can calibrate the pitch to 432 Hz.
+          Incidentally{' '}
+          <a href="https://twitter.com/AndrewGolightly/status/1056427488086319105">
+            Andrew has the met the developer of this app
+          </a>
+          .
+        </Typography>
       </Container>
     </main>
   );
