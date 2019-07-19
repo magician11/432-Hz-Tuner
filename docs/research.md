@@ -33,6 +33,7 @@ Hertz - The hertz (symbol: Hz) is the derived unit of frequency in the Internati
 [source](https://www.strymon.net/this-weeks-favorite-midnights-ocean-and-bluesky/)
 
 - [Attuned Vibrations](https://attunedvibrations.com/432hz/)
+- [432 Hz, The Universal Frequency of Sacred Geometry](https://www.gaiameditation.com/sound-healing-research/432-hz-the-universal-frequency-of-sacred-geometry/)
 
 ## Videos
 
