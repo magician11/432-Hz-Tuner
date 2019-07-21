@@ -18,7 +18,7 @@ const GAListener = ({ children, trackingId, history }) => {
     ReactGA.initialize(trackingId);
     sendPageView(history.location);
     return history.listen(sendPageView);
-  }, []);
+  }, [trackingId, history]);
 
   return children;
 };

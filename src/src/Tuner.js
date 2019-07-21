@@ -21,6 +21,7 @@ export default function Tuner() {
   const classes = useStyles();
 
   const playFrequency = hz => {
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
     const context = new AudioContext();
     const o = context.createOscillator();
     const g = context.createGain();
